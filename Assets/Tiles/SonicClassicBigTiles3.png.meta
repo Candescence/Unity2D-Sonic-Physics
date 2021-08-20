@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 92b0f30ba4ed7254e827cf954fc51fbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 384713348711307519
+    second: SonicClassicBigTiles3_0
+  - first:
+      213: 5338234126562645676
+    second: SonicClassicBigTiles3_1
+  - first:
+      213: -8736655639783620352
+    second: SonicClassicBigTiles3_2
+  - first:
+      213: -9078820558890791124
+    second: SonicClassicBigTiles3_3
+  - first:
+      213: 2113773195054139900
+    second: SonicClassicBigTiles3_4
+  - first:
+      213: 1925116714792172044
+    second: SonicClassicBigTiles3_5
+  - first:
+      213: -8254212560524072336
+    second: SonicClassicBigTiles3_6
+  - first:
+      213: -7026976186682365790
+    second: SonicClassicBigTiles3_7
+  - first:
+      213: 1516644707440020741
+    second: SonicClassicBigTiles3_8
+  - first:
+      213: -138853882712043396
+    second: SonicClassicBigTiles3_9
+  - first:
+      213: 6903175600331316953
+    second: SonicClassicBigTiles3_10
+  - first:
+      213: -2143928579900173110
+    second: SonicClassicBigTiles3_11
+  - first:
+      213: -4537583373221508681
+    second: SonicClassicBigTiles3_12
+  - first:
+      213: 2955882746860649413
+    second: SonicClassicBigTiles3_13
+  - first:
+      213: -709154545479659530
+    second: SonicClassicBigTiles3_14
+  - first:
+      213: 5394295486339504682
+    second: SonicClassicBigTiles3_15
+  - first:
+      213: -8830604256316524007
+    second: SonicClassicBigTiles3_16
+  - first:
+      213: 2376432085165486533
+    second: SonicClassicBigTiles3_17
+  - first:
+      213: -1996478063925689882
+    second: SonicClassicBigTiles3_18
+  - first:
+      213: -632133325058405092
+    second: SonicClassicBigTiles3_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d94a90c6c65500800000000000000
+      internalID: 384713348711307519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca652a9a7a7351a40800000000000000
+      internalID: 5338234126562645676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c8c10cf921c680800000000000000
+      internalID: -8736655639783620352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f0dc7adcc810280800000000000000
+      internalID: -9078820558890791124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9c1fa8581a55d10800000000000000
+      internalID: 2113773195054139900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aba50d37367ba10800000000000000
+      internalID: 1925116714792172044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a256da865237d80800000000000000
+      internalID: -8254212560524072336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a82ba3836a2b7e90800000000000000
+      internalID: -7026976186682365790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_8
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d407d63543c0510800000000000000
+      internalID: 1516644707440020741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_9
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d34d1121b21ef0800000000000000
+      internalID: -138853882712043396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de54e742a10dcf50800000000000000
+      internalID: 6903175600331316953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41e3bc05c3f32e0800000000000000
+      internalID: -2143928579900173110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c96496f34701c0800000000000000
+      internalID: -4537583373221508681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb55482b7650920800000000000000
+      internalID: 2955882746860649413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc4d9b2b39826f0800000000000000
+      internalID: -709154545479659530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a52c42a236cda40800000000000000
+      internalID: 5394295486339504682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a73362734637580800000000000000
+      internalID: -8830604256316524007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_17
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1312df368caf020800000000000000
+      internalID: 2376432085165486533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_18
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e189d557c51b44e0800000000000000
+      internalID: -1996478063925689882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicClassicBigTiles3_19
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d053d07163a37f0800000000000000
+      internalID: -632133325058405092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

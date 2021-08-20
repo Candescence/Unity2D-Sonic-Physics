@@ -1,0 +1,6564 @@
+fileFormatVersion: 2
+guid: 47f9ca0cfb87e70428db1cf1188ef654
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9040411138192207517
+    second: BlazeIdle1_0
+  - first:
+      213: 659883708944827670
+    second: BlazeIdle1_1
+  - first:
+      213: 6102942825473204596
+    second: BlazeIdle1_2
+  - first:
+      213: 7989433367810111434
+    second: BlazeIdle1_3
+  - first:
+      213: 727146083826980632
+    second: BlazeIdle1_4
+  - first:
+      213: 5730224973168473041
+    second: BlazeIdle1_5
+  - first:
+      213: -6160964257405627878
+    second: BlazeIdle1_6
+  - first:
+      213: -5889491452222153568
+    second: BlazeIdle1_7
+  - first:
+      213: -973968471050322451
+    second: BlazeIdle1_8
+  - first:
+      213: 6422334073244531086
+    second: BlazeIdle1_9
+  - first:
+      213: 807282997893026090
+    second: BlazeIdle1_10
+  - first:
+      213: -4385920316090139022
+    second: BlazeIdle1_11
+  - first:
+      213: 5478129031983567966
+    second: BlazeIdle1_12
+  - first:
+      213: -4431374702767458994
+    second: BlazeIdle1_13
+  - first:
+      213: 1228913042404845688
+    second: BlazeIdle1_14
+  - first:
+      213: 4702553383689164864
+    second: BlazeIdle1_15
+  - first:
+      213: 2358634183075623682
+    second: BlazeIdle1_16
+  - first:
+      213: 3224299697267203328
+    second: BlazeIdle1_17
+  - first:
+      213: 9156510004414886850
+    second: BlazeIdle1_18
+  - first:
+      213: 1582919793108943530
+    second: BlazeIdle1_19
+  - first:
+      213: -1258936262964221174
+    second: BlazeIdle1_20
+  - first:
+      213: -8875221358254971633
+    second: BlazeIdle1_21
+  - first:
+      213: -7833107292597813179
+    second: BlazeIdle1_22
+  - first:
+      213: -3490994500736187342
+    second: BlazeIdle1_23
+  - first:
+      213: 6206371740314781745
+    second: BlazeIdle1_24
+  - first:
+      213: -3156402899025660747
+    second: BlazeMania_part1 1_25
+  - first:
+      213: -3143171828801077747
+    second: BlazeIdle1_26
+  - first:
+      213: 5876994707069917924
+    second: BlazeIdle1_27
+  - first:
+      213: 3417388093173567184
+    second: BlazeIdle1_28
+  - first:
+      213: 7357771601943433760
+    second: BlazeIdle1_29
+  - first:
+      213: -7495992677006606679
+    second: BlazeIdle1_30
+  - first:
+      213: -6548078637781857178
+    second: BlazeIdle1_31
+  - first:
+      213: 2108332419772955035
+    second: BlazeIdle1_32
+  - first:
+      213: 6391300330415319722
+    second: BlazeIdle1_33
+  - first:
+      213: 3012660529920194192
+    second: BlazeIdle1_34
+  - first:
+      213: -7018569610046621700
+    second: BlazeIdle1_35
+  - first:
+      213: -2224041858656700404
+    second: BlazeIdle1_36
+  - first:
+      213: -6258186909458656847
+    second: BlazeIdle1_37
+  - first:
+      213: 7452800853543022019
+    second: BlazeIdle1_38
+  - first:
+      213: 7123232774832127713
+    second: BlazeIdle1_39
+  - first:
+      213: -5743654850840277963
+    second: BlazeIdle1_40
+  - first:
+      213: 4116368818462927757
+    second: BlazeIdle1_41
+  - first:
+      213: -570225119906583043
+    second: BlazeIdle1_42
+  - first:
+      213: -9017752076596674243
+    second: BlazeIdle1_43
+  - first:
+      213: 3288763108250019341
+    second: BlazeIdle1_44
+  - first:
+      213: -6486204115900224315
+    second: BlazeIdle1_45
+  - first:
+      213: -5405753280296501180
+    second: BlazeIdle1_46
+  - first:
+      213: -2266920762460154620
+    second: BlazeIdle1_47
+  - first:
+      213: 1640414959618238130
+    second: BlazeIdle1_48
+  - first:
+      213: -2116020801664347124
+    second: BlazeIdle1_49
+  - first:
+      213: -8593106535524640760
+    second: BlazeIdle1_50
+  - first:
+      213: -2115893933306456942
+    second: BlazeIdle1_51
+  - first:
+      213: -6227925226123647816
+    second: BlazeMania_part1 1_52
+  - first:
+      213: 4439213775317571706
+    second: BlazeIdle1_53
+  - first:
+      213: -1242867042460211845
+    second: BlazeIdle1_54
+  - first:
+      213: -6388372384495431232
+    second: BlazeIdle1_55
+  - first:
+      213: 2176359857246012398
+    second: BlazeIdle1_56
+  - first:
+      213: 5635719485994737179
+    second: BlazeIdle1_57
+  - first:
+      213: 2954401113933878477
+    second: BlazeIdle1_58
+  - first:
+      213: 8930998093639757184
+    second: BlazeIdle1_59
+  - first:
+      213: -1147527737143186357
+    second: BlazeIdle1_60
+  - first:
+      213: -3388912487245466886
+    second: BlazeIdle1_61
+  - first:
+      213: -7257985670237783915
+    second: BlazeIdle1_62
+  - first:
+      213: 1501439007510326485
+    second: BlazeIdle1_63
+  - first:
+      213: -9133225008175094827
+    second: BlazeIdle1_64
+  - first:
+      213: -6396570147685994494
+    second: BlazeIdle1_65
+  - first:
+      213: 6873262792165098893
+    second: BlazeIdle1_66
+  - first:
+      213: 3788665082515867576
+    second: BlazeMania_part1 1_67
+  - first:
+      213: -4460199374213602793
+    second: BlazeMania_part1 1_68
+  - first:
+      213: 3379641560983879995
+    second: BlazeMania_part1 1_69
+  - first:
+      213: -3613263014295702166
+    second: BlazeMania_part1 1_70
+  - first:
+      213: 414113710409029057
+    second: BlazeMania_part1 1_71
+  - first:
+      213: 3786522897597687921
+    second: BlazeMania_part1 1_72
+  - first:
+      213: 8296583486661803060
+    second: BlazeMania_part1 1_73
+  - first:
+      213: 3827400716246880698
+    second: BlazeMania_part1 1_74
+  - first:
+      213: 4085108599370321107
+    second: BlazeMania_part1 1_75
+  - first:
+      213: 2076190120167763688
+    second: BlazeMania_part1 1_76
+  - first:
+      213: -7319291531057711500
+    second: BlazeMania_part1 1_77
+  - first:
+      213: -4989172496372612860
+    second: BlazeMania_part1 1_78
+  - first:
+      213: -2357469604146589488
+    second: BlazeMania_part1 1_79
+  - first:
+      213: 4171866602857290508
+    second: BlazeMania_part1 1_80
+  - first:
+      213: 4283649075046091429
+    second: BlazeMania_part1 1_81
+  - first:
+      213: -761407060121756963
+    second: BlazeMania_part1 1_82
+  - first:
+      213: 7154004354386113707
+    second: BlazeMania_part1 1_83
+  - first:
+      213: 56428797753022843
+    second: BlazeMania_part1 1_84
+  - first:
+      213: -7812513307617148793
+    second: BlazeMania_part1 1_85
+  - first:
+      213: 1892817032688193710
+    second: BlazeMania_part1 1_86
+  - first:
+      213: -4683020832142578081
+    second: BlazeMania_part1 1_87
+  - first:
+      213: 3472411139630141828
+    second: BlazeMania_part1 1_88
+  - first:
+      213: 1968785470973102470
+    second: BlazeMania_part1 1_89
+  - first:
+      213: -8908205900011975174
+    second: BlazeMania_part1 1_90
+  - first:
+      213: 1852682650090191019
+    second: BlazeMania_part1 1_91
+  - first:
+      213: -565921983610269845
+    second: BlazeMania_part1 1_92
+  - first:
+      213: -660127900072290553
+    second: BlazeMania_part1 1_93
+  - first:
+      213: -313647746557607502
+    second: BlazeMania_part1 1_94
+  - first:
+      213: 6167813460041404778
+    second: BlazeMania_part1 1_95
+  - first:
+      213: -484271310714813397
+    second: BlazeMania_part1 1_96
+  - first:
+      213: 2717568672524224452
+    second: BlazeMania_part1 1_97
+  - first:
+      213: -2336035699705171225
+    second: BlazeMania_part1 1_98
+  - first:
+      213: -8600048279104555709
+    second: BlazeMania_part1 1_99
+  - first:
+      213: -6530417665791559947
+    second: BlazeMania_part1 1_100
+  - first:
+      213: -4937689685766811996
+    second: BlazeMania_part1 1_101
+  - first:
+      213: -8778440331620372244
+    second: BlazeWalk_102
+  - first:
+      213: -235984308399927873
+    second: BlazeWalk_103
+  - first:
+      213: 3079725321160300509
+    second: BlazeWalk_104
+  - first:
+      213: -776103921260162051
+    second: BlazeWalk_105
+  - first:
+      213: -3721554131321526520
+    second: BlazeWalk_106
+  - first:
+      213: -7635878479106152482
+    second: BlazeWalk_107
+  - first:
+      213: 227963842530486895
+    second: BlazeWalk_108
+  - first:
+      213: -1988444443498548213
+    second: BlazeWalk_109
+  - first:
+      213: -2422064781083606266
+    second: BlazeWalk_110
+  - first:
+      213: 2115721145147056786
+    second: BlazeWalk_111
+  - first:
+      213: -6711863496357536194
+    second: BlazeWalk_112
+  - first:
+      213: -7704513156318986692
+    second: BlazeWalk_113
+  - first:
+      213: -1048198657982383268
+    second: BlazeJog_114
+  - first:
+      213: -377620488229839647
+    second: BlazeJog_115
+  - first:
+      213: -67282749038036867
+    second: BlazeJog_116
+  - first:
+      213: -947415827672849531
+    second: BlazeJog_117
+  - first:
+      213: 3638478522686888554
+    second: BlazeJog_118
+  - first:
+      213: 4987545492629432831
+    second: BlazeJog_119
+  - first:
+      213: -5238988423920716424
+    second: BlazeJog_120
+  - first:
+      213: 4632099778726011098
+    second: BlazeJog_121
+  - first:
+      213: -8136064216270694143
+    second: BlazeJog_122
+  - first:
+      213: 6913834838403910841
+    second: BlazeJog_123
+  - first:
+      213: 2540075197588054079
+    second: BlazeFallStart_124
+  - first:
+      213: -6957049788370769012
+    second: BlazeFallStart_125
+  - first:
+      213: 2504034557272703125
+    second: BlazeFallStart_126
+  - first:
+      213: -326612570802407150
+    second: BlazeMania_part1 1_127
+  - first:
+      213: -897731340988874321
+    second: BlazeFallStart_128
+  - first:
+      213: 326480113683081928
+    second: BlazeFallLoop_129
+  - first:
+      213: 2294756906091307634
+    second: BlazeFallLoop_130
+  - first:
+      213: -4069724899594025226
+    second: BlazeFallLoop_131
+  - first:
+      213: 6341519635541546848
+    second: BlazeFallLoop_132
+  - first:
+      213: -7206204732895698291
+    second: BlazeRun_V1_133
+  - first:
+      213: 348385737310544436
+    second: BlazeRun_V1_134
+  - first:
+      213: -8694479211663521548
+    second: BlazeRun_V1_135
+  - first:
+      213: 6274114474883223086
+    second: BlazeRun_V1_136
+  - first:
+      213: 5724396123724873186
+    second: BlazeRun_V1_137
+  - first:
+      213: 3932211720621003327
+    second: BlazeRun_V1_138
+  - first:
+      213: -6086186018665678902
+    second: BlazeRun_V1_139
+  - first:
+      213: -1431693471429025566
+    second: BlazeRun_V1_140
+  - first:
+      213: -998220683424841057
+    second: BlazeRun_V2_141
+  - first:
+      213: -4054333494559430329
+    second: BlazeRun_V2_142
+  - first:
+      213: -8178063367068085427
+    second: BlazeRun_V2_143
+  - first:
+      213: -1433569957591918377
+    second: BlazeRun_V2_144
+  - first:
+      213: 2268653184149713651
+    second: BlazeRun_V2_145
+  - first:
+      213: 3694439621227225097
+    second: BlazeRun_V2_146
+  - first:
+      213: 6000247680116231322
+    second: BlazeRun_V2_147
+  - first:
+      213: 7038860333716558951
+    second: BlazeRun_V2_148
+  - first:
+      213: 520499711084797795
+    second: BlazeGlide_149
+  - first:
+      213: -6481445310050538500
+    second: BlazeGlide_150
+  - first:
+      213: 2414162193971630270
+    second: BlazeGlide_151
+  - first:
+      213: -8805830587400853444
+    second: BlazeGlide_152
+  - first:
+      213: -4479417127056280417
+    second: BlazeGlideFX_153
+  - first:
+      213: -2570373461077825732
+    second: BlazeGlideFX_154
+  - first:
+      213: 3854234057453364115
+    second: BlazeGlideFX_155
+  - first:
+      213: -8506970718220507204
+    second: BlazeGlideFX_156
+  - first:
+      213: 8555295270792400812
+    second: BlazeSprint_157
+  - first:
+      213: -5457725241102827541
+    second: BlazeSprint_158
+  - first:
+      213: 9151440360997905931
+    second: BlazeSprint_159
+  - first:
+      213: 1266061348932250991
+    second: BlazeSprint_160
+  - first:
+      213: -7824964017469965983
+    second: BlazeSprint_161
+  - first:
+      213: 530417155702733382
+    second: BlazeSprint_162
+  - first:
+      213: 5305470434084168893
+    second: BlazeSprint_163
+  - first:
+      213: -2029742211374726485
+    second: BlazeSprint_164
+  - first:
+      213: -5397235302941773477
+    second: BlazeSprint_165
+  - first:
+      213: -5701856031329405820
+    second: BlazeSprint_166
+  - first:
+      213: 3076772407321329568
+    second: BlazeBall_167
+  - first:
+      213: -5997225592870458492
+    second: BlazeBall_168
+  - first:
+      213: 1261247980652293593
+    second: BlazeBall_169
+  - first:
+      213: -8751723522864715521
+    second: BlazeBall_170
+  - first:
+      213: -8881369626548424621
+    second: BlazeBall_171
+  - first:
+      213: 759451092063896446
+    second: BlazeBall_172
+  - first:
+      213: 7511289042214057636
+    second: BlazeBall_173
+  - first:
+      213: 8794277910971368357
+    second: BlazeBall_174
+  - first:
+      213: 1692515607969810396
+    second: BlazeBall_175
+  - first:
+      213: 5263154176856397196
+    second: BlazeBall_176
+  - first:
+      213: -7669139837136606283
+    second: BlazeMania_part1 1_177
+  - first:
+      213: 7432441756482097992
+    second: BlazeMania_part1 1_178
+  - first:
+      213: 7578800470092531871
+    second: BlazeMania_part1 1_179
+  - first:
+      213: 1193201151427814577
+    second: BlazeMania_part1 1_180
+  - first:
+      213: 5395545341617454580
+    second: BlazeMania_part1 1_181
+  - first:
+      213: 5699677813567026975
+    second: BlazeMania_part1 1_182
+  - first:
+      213: 9170858480646606581
+    second: BlazeMania_part1 1_183
+  - first:
+      213: -280362315352983637
+    second: BlazeMania_part1 1_184
+  - first:
+      213: -6578675977085355337
+    second: BlazeMania_part1 1_185
+  - first:
+      213: 2184983113043032142
+    second: BlazeMania_part1 1_186
+  - first:
+      213: 1022954137501100444
+    second: BlazeMania_part1 1_187
+  - first:
+      213: -1937698412698933349
+    second: BlazeMania_part1 1_188
+  - first:
+      213: -6632082221658705831
+    second: BlazeMania_part1 1_189
+  - first:
+      213: -528946855574263254
+    second: BlazeMania_part1 1_190
+  - first:
+      213: 1193202616550713160
+    second: BlazeMania_part1 1_191
+  - first:
+      213: -3284695171656082513
+    second: BlazeMania_part1 1_192
+  - first:
+      213: -7185919469548146348
+    second: BlazeMania_part1 1_193
+  - first:
+      213: 2257463620698031614
+    second: BlazeMania_part1 1_194
+  - first:
+      213: 1022343627854282196
+    second: BlazeMania_part1 1_195
+  - first:
+      213: -6498471120649513267
+    second: BlazeMania_part1 1_196
+  - first:
+      213: -2494804997355307998
+    second: BlazeMania_part1 1_197
+  - first:
+      213: 2476989892607954665
+    second: BlazeMania_part1 1_198
+  - first:
+      213: -813717714901744040
+    second: BlazeMania_part1 1_199
+  - first:
+      213: 2892002967306435994
+    second: BlazeMania_part1 1_200
+  - first:
+      213: 2862953198999971250
+    second: BlazeMania_part1 1_201
+  - first:
+      213: 1881366441464269109
+    second: BlazeMania_part1 1_202
+  - first:
+      213: 1178219686474883509
+    second: BlazeMania_part1 1_203
+  - first:
+      213: 8939365114513127173
+    second: BlazeMania_part1 1_204
+  - first:
+      213: -3279804677745310892
+    second: BlazeMania_part1 1_205
+  - first:
+      213: 6591631240205686218
+    second: BlazeMania_part1 1_206
+  - first:
+      213: -5689227523529526183
+    second: BlazeMania_part1 1_207
+  - first:
+      213: 8003323516090483496
+    second: BlazeMania_part1 1_208
+  - first:
+      213: 7416061253485081635
+    second: BlazeMania_part1 1_209
+  - first:
+      213: -5231453953781279760
+    second: BlazeMania_part1 1_210
+  - first:
+      213: 8204980557573405973
+    second: BlazeMania_part1 1_211
+  - first:
+      213: 5326795568892154860
+    second: BlazeMania_part1 1_212
+  - first:
+      213: -3402985085839503284
+    second: BlazeMania_part1 1_213
+  - first:
+      213: 8311384624364386531
+    second: BlazeMania_part1 1_214
+  - first:
+      213: 7039379579809607199
+    second: BlazeMania_part1 1_215
+  - first:
+      213: -5887421387771779719
+    second: BlazeMania_part1 1_216
+  - first:
+      213: 5083661896139442806
+    second: BlazeMania_part1 1_217
+  - first:
+      213: 2748044220351903834
+    second: BlazeMania_part1 1_218
+  - first:
+      213: 5695590384332189577
+    second: BlazeMania_part1 1_219
+  - first:
+      213: -6678385273003951853
+    second: BlazeMania_part1 1_220
+  - first:
+      213: -3308190086673748187
+    second: BlazeMania_part1 1_221
+  - first:
+      213: -4756455539383635615
+    second: BlazeMania_part1 1_222
+  - first:
+      213: -2470461840217866284
+    second: BlazeMania_part1 1_223
+  - first:
+      213: 8441058279491521635
+    second: BlazeMania_part1 1_224
+  - first:
+      213: -7722096923555006691
+    second: BlazeMania_part1 1_225
+  - first:
+      213: 210661423734640128
+    second: BlazeMania_part1 1_226
+  - first:
+      213: -251313907397658563
+    second: BlazeMania_part1 1_227
+  - first:
+      213: -2366614179136961995
+    second: BlazeMania_part1 1_228
+  - first:
+      213: 5795923350918203306
+    second: BlazeMania_part1 1_229
+  - first:
+      213: -6573940063899844566
+    second: BlazeMania_part1 1_230
+  - first:
+      213: 3303637224539519961
+    second: BlazeMania_part1 1_231
+  - first:
+      213: 5449904970017295322
+    second: BlazeMania_part1 1_232
+  - first:
+      213: -6591090044253670811
+    second: BlazeMania_part1 1_233
+  - first:
+      213: 244150681645530790
+    second: BlazeMania_part1 1_234
+  - first:
+      213: 5435549490024985283
+    second: BlazeMania_part1 1_235
+  - first:
+      213: -5964035554379663966
+    second: BlazeMania_part1 1_236
+  - first:
+      213: 7047541690177055893
+    second: BlazeMania_part1 1_237
+  - first:
+      213: -9129408947883688117
+    second: BlazeMania_part1 1_238
+  - first:
+      213: -8465014195350239933
+    second: BlazeMania_part1 1_239
+  - first:
+      213: -7977920458797178963
+    second: BlazeMania_part1 1_240
+  - first:
+      213: -8766514215286320080
+    second: BlazeMania_part1 1_241
+  - first:
+      213: -2701627724051889403
+    second: BlazeMania_part1 1_242
+  - first:
+      213: 6465204344903239082
+    second: BlazeMania_part1 1_243
+  - first:
+      213: -5785219900522845234
+    second: BlazeMania_part1 1_244
+  - first:
+      213: 863078366581350102
+    second: BlazeMania_part1 1_245
+  - first:
+      213: 6230051195974303365
+    second: BlazeMania_part1 1_246
+  - first:
+      213: -8247615238851816780
+    second: BlazeMania_part1 1_247
+  - first:
+      213: 7425802736448854393
+    second: BlazeMania_part1 1_248
+  - first:
+      213: -6534809521655072581
+    second: BlazeMania_part1 1_249
+  - first:
+      213: 6435957163445837505
+    second: BlazeMania_part1 1_250
+  - first:
+      213: -5999453802169655581
+    second: BlazeMania_part1 1_251
+  - first:
+      213: -1184602864054619941
+    second: BlazeMania_part1 1_252
+  - first:
+      213: 4128730140074407783
+    second: BlazeMania_part1 1_253
+  - first:
+      213: -8317804160751702737
+    second: BlazeMania_part1 1_254
+  - first:
+      213: -2396133756290293563
+    second: BlazeMania_part1 1_255
+  - first:
+      213: 1840022590916928709
+    second: BlazeMania_part1 1_256
+  - first:
+      213: 3117094170663095504
+    second: BlazeMania_part1 1_257
+  - first:
+      213: 184560204354515043
+    second: BlazeMania_part1 1_258
+  - first:
+      213: -1337636281984535293
+    second: BlazeMania_part1 1_259
+  - first:
+      213: 65141280761074872
+    second: BlazeMania_part1 1_260
+  - first:
+      213: 6386812761016901251
+    second: BlazeMania_part1 1_261
+  - first:
+      213: -3050334726291814190
+    second: BlazeMania_part1 1_263
+  - first:
+      213: -7805108630713337896
+    second: BlazeMania_part1 1_264
+  - first:
+      213: 520830932739023071
+    second: BlazeMania_part1 1_265
+  - first:
+      213: -4299750779219305529
+    second: BlazeMania_part1 1_266
+  - first:
+      213: -553987414540306170
+    second: BlazeMania_part1 1_267
+  - first:
+      213: 2013246835967121969
+    second: BlazeMania_part1 1_268
+  - first:
+      213: -4988678276781349116
+    second: BlazeMania_part1 1_270
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlazeIdle1_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 528
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361919cc7f10a8280800000000000000
+      internalID: -9040411138192207517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 528
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61549b0bcb0682900800000000000000
+      internalID: 659883708944827670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 528
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47169dc3a2202b450800000000000000
+      internalID: 6102942825473204596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac779f4715b20ee60800000000000000
+      internalID: 7989433367810111434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d25ab287571a00800000000000000
+      internalID: 727146083826980632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d377c8c049d58f40800000000000000
+      internalID: 5730224973168473041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12957b66abdf7aa0800000000000000
+      internalID: -6160964257405627878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac59926ab2544ea0800000000000000
+      internalID: -5889491452222153568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 528
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded7d9cf5d4cb72f0800000000000000
+      internalID: -973968471050322451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 528
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b0a800d6b02950800000000000000
+      internalID: 6422334073244531086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2150a20c9b043b00800000000000000
+      internalID: 807282997893026090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e374ac5b41223c0800000000000000
+      internalID: -4385920316090139022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5492298459360c40800000000000000
+      internalID: 5478129031983567966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b4eeaf289082c0800000000000000
+      internalID: -4431374702767458994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 528
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a268a6e9fd0110800000000000000
+      internalID: 1228913042404845688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 529
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0489a142363d24140800000000000000
+      internalID: 4702553383689164864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 528
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f05dfa4d8bb020800000000000000
+      internalID: 2358634183075623682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 528
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dd209dd730fbc20800000000000000
+      internalID: 3224299697267203328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 528
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b573f555721f70800000000000000
+      internalID: 9156510004414886850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 528
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa281384a29a7f510800000000000000
+      internalID: 1582919793108943530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_20
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 528
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0be823932c578ee0800000000000000
+      internalID: -1258936262964221174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 528
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05a0469231e4d480800000000000000
+      internalID: -8875221358254971633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_22
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 528
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408f214b663b4390800000000000000
+      internalID: -7833107292597813179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_23
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 528
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23407c66ffe7d8fc0800000000000000
+      internalID: -3490994500736187342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_24
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 528
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1384c7d0736712650800000000000000
+      internalID: 6206371740314781745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_25
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 548
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ff8369443234d0800000000000000
+      internalID: -3156402899025660747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_26
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 528
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0efb4cffd53164d0800000000000000
+      internalID: -3143171828801077747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_27
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 528
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead0c56c874f8150800000000000000
+      internalID: 5876994707069917924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_28
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 528
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de82495d500d6f20800000000000000
+      internalID: 3417388093173567184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_29
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 528
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0229b40f94e0c1660800000000000000
+      internalID: 7357771601943433760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_30
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 528
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae77103062e8f790800000000000000
+      internalID: -7495992677006606679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_31
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 528
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c40b11c2d8025a0800000000000000
+      internalID: -6548078637781857178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_32
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 528
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b1055a2d424d10800000000000000
+      internalID: 2108332419772955035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_33
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 528
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaed37b9c572b850800000000000000
+      internalID: 6391300330415319722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_34
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 528
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096bbba4ace1fc920800000000000000
+      internalID: 3012660529920194192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 473
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b1d92028099e90800000000000000
+      internalID: -7018569610046621700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 473
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08fa2986bd9221e0800000000000000
+      internalID: -2224041858656700404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 473
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b197b3c9247629a0800000000000000
+      internalID: -6258186909458656847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 473
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde821c3eaad6760800000000000000
+      internalID: 7452800853543022019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 473
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef94cd77ecad260800000000000000
+      internalID: 7123232774832127713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 473
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c473728507a40b0800000000000000
+      internalID: -5743654850840277963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 473
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b2af481a7402930800000000000000
+      internalID: 4116368818462927757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_42
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 473
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda6fd46472618f0800000000000000
+      internalID: -570225119906583043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 473
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d310ae1b3428ad280800000000000000
+      internalID: -9017752076596674243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 473
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e6a15f9804ad20800000000000000
+      internalID: 3288763108250019341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_45
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 473
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2713d8bf5cf5a0800000000000000
+      internalID: -6486204115900224315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_46
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 473
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44046805808eaf4b0800000000000000
+      internalID: -5405753280296501180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_47
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 473
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405da93c3974a80e0800000000000000
+      internalID: -2266920762460154620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_48
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 473
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b62848e6bce3c610800000000000000
+      internalID: 1640414959618238130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 473
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049573ca4262a2e0800000000000000
+      internalID: -2116020801664347124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_50
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 473
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80857f852272fb880800000000000000
+      internalID: -8593106535524640760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_51
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 473
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2945dda9da5d2a2e0800000000000000
+      internalID: -2115893933306456942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_52
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 473
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a439f007f199a0800000000000000
+      internalID: -6227925226123647816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_53
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 473
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7813df98614b9d30800000000000000
+      internalID: 4439213775317571706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_54
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 473
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b756e17820370cee0800000000000000
+      internalID: -1242867042460211845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_55
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 473
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c11c31d921f757a0800000000000000
+      internalID: -6388372384495431232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_56
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 473
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3819262cbf33e10800000000000000
+      internalID: 2176359857246012398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_57
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 473
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e96706309163e40800000000000000
+      internalID: 5635719485994737179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_58
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 473
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc41c08f824200920800000000000000
+      internalID: 2954401113933878477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_59
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 473
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da61d927741fb70800000000000000
+      internalID: 8930998093639757184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_60
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 473
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c2ca95a992310f0800000000000000
+      internalID: -1147527737143186357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_61
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 473
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af239de4c0a28f0d0800000000000000
+      internalID: -3388912487245466886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_62
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 473
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f994cc74764b90800000000000000
+      internalID: -7257985670237783915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_63
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 473
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc619682de26d410800000000000000
+      internalID: 1501439007510326485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_64
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 473
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36206be34404180800000000000000
+      internalID: -9133225008175094827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_65
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 473
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200fe465751da37a0800000000000000
+      internalID: -6396570147685994494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeIdle1_66
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 473
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8509e6e71cb26f50800000000000000
+      internalID: 6873262792165098893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7c840c1da049430800000000000000
+      internalID: 3788665082515867576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122490ec403a12c0800000000000000
+      internalID: -4460199374213602793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b314796f716e6ee20800000000000000
+      internalID: 3379641560983879995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_70
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 405
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f8d0be6c1bddc0800000000000000
+      internalID: -3613263014295702166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 405
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c59c8db93a3fb500800000000000000
+      internalID: 414113710409029057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_72
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 405
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786135738e6c8430800000000000000
+      internalID: 3786522897597687921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 405
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c39d359b2632370800000000000000
+      internalID: 8296583486661803060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 405
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab198f84ca8ad1530800000000000000
+      internalID: 3827400716246880698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 405
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc8c5690a831b830800000000000000
+      internalID: 4085108599370321107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 405
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee66c60aeb10dc10800000000000000
+      internalID: 2076190120167763688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_77
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476b7cbb127ac6a90800000000000000
+      internalID: -7319291531057711500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_78
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401cf8e5c06e2cab0800000000000000
+      internalID: -4989172496372612860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_79
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 405
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0df0ca2e5984fd0800000000000000
+      internalID: -2357469604146589488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_80
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 405
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bdf91629275e930800000000000000
+      internalID: 4171866602857290508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 405
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa8d845324927b30800000000000000
+      internalID: 4283649075046091429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_82
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 405
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad7fb1050fe65f0800000000000000
+      internalID: -761407060121756963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_83
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 405
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba438c88e01284360800000000000000
+      internalID: 7154004354386113707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_84
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 405
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79db2d41b978c000800000000000000
+      internalID: 56428797753022843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_85
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c7780a80649390800000000000000
+      internalID: -7812513307617148793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_86
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 405
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0503a0013a44a10800000000000000
+      internalID: 1892817032688193710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_87
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 405
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e23686d51920fb0800000000000000
+      internalID: -4683020832142578081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_88
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 426
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48193cba88b703030800000000000000
+      internalID: 3472411139630141828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_89
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 405
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894d4c64f7825b10800000000000000
+      internalID: 1968785470973102470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_90
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 405
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4fbf7ee1bf5480800000000000000
+      internalID: -8908205900011975174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_91
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 405
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b728ed0d06b910800000000000000
+      internalID: 1852682650090191019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_92
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 405
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f435c44f07528f0800000000000000
+      internalID: -565921983610269845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_93
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 405
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ddd12c21c6d6f0800000000000000
+      internalID: -660127900072290553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_94
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 405
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b105d94903b5abf0800000000000000
+      internalID: -313647746557607502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_95
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 405
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6114a6d9a9789550800000000000000
+      internalID: 6167813460041404778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_96
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 405
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b244ee50fc58749f0800000000000000
+      internalID: -484271310714813397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_97
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 405
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c749823f4eb6b520800000000000000
+      internalID: 2717568672524224452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_98
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2317078ebb49fd0800000000000000
+      internalID: -2336035699705171225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_99
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34573c8b7ad76a880800000000000000
+      internalID: -8600048279104555709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_100
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 405
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6fe8b8bbb4f55a0800000000000000
+      internalID: -6530417665791559947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_101
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 405
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae42cc446dc97bb0800000000000000
+      internalID: -4937689685766811996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 338
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce03ecf4707bc2680800000000000000
+      internalID: -8778440331620372244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 338
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd8145958d99bcf0800000000000000
+      internalID: -235984308399927873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_104
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 338
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7198dccd16dba20800000000000000
+      internalID: 3079725321160300509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_105
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 338
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df310887899ba35f0800000000000000
+      internalID: -776103921260162051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_106
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 338
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80761363c326a5cc0800000000000000
+      internalID: -3721554131321526520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_107
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 338
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7e3d8daf8e70690800000000000000
+      internalID: -7635878479106152482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_108
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 338
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aa9af28e3e92300800000000000000
+      internalID: 227963842530486895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b047ba95050a764e0800000000000000
+      internalID: -1988444443498548213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_110
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 338
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603078c0ae8136ed0800000000000000
+      internalID: -2422064781083606266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_111
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 338
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e5440c2d8c5d10800000000000000
+      internalID: 2115721145147056786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_112
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 338
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e92b606bbaad2a0800000000000000
+      internalID: -6711863496357536194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeWalk_113
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 338
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e7846ca12141590800000000000000
+      internalID: -7704513156318986692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_114
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 339
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b3be8cfdc0471f0800000000000000
+      internalID: -1048198657982383268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_115
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 339
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec962baa2c62caf0800000000000000
+      internalID: -377620488229839647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_116
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 339
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78731c32b6f01ff0800000000000000
+      internalID: -67282749038036867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_117
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 339
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5832af8035a1ad2f0800000000000000
+      internalID: -947415827672849531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_118
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 339
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad3ab50f87e7230800000000000000
+      internalID: 3638478522686888554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_119
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 339
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9274d4332573540800000000000000
+      internalID: 4987545492629432831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_120
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 339
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87572d929cf5b47b0800000000000000
+      internalID: -5238988423920716424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_121
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 339
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad02123f436884040800000000000000
+      internalID: 4632099778726011098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_122
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 339
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091b67b3b4e61f80800000000000000
+      internalID: -8136064216270694143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeJog_123
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 339
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc09ca8720e2ff50800000000000000
+      internalID: 6913834838403910841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallStart_124
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 339
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30240f2fe8204320800000000000000
+      internalID: 2540075197588054079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallStart_125
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 339
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b2477d318937f90800000000000000
+      internalID: -6957049788370769012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallStart_126
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 339
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590ca83b92e10c220800000000000000
+      internalID: 2504034557272703125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_127
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 339
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219352ae893a77bf0800000000000000
+      internalID: -326612570802407150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallStart_128
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 339
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa18f9c0a1e9a83f0800000000000000
+      internalID: -897731340988874321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallLoop_129
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 339
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca2f420fe3e78400800000000000000
+      internalID: 326480113683081928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallLoop_130
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 339
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27262797f3d98df10800000000000000
+      internalID: 2294756906091307634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallLoop_131
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 339
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c22224ce6587c0800000000000000
+      internalID: -4069724899594025226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeFallLoop_132
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 339
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675e9c728a910850800000000000000
+      internalID: 6341519635541546848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 274
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82630db9fa6efb90800000000000000
+      internalID: -7206204732895698291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 274
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43225357bf6b5d400800000000000000
+      internalID: 348385737310544436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_135
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 274
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f807c9e831075780800000000000000
+      internalID: -8694479211663521548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_136
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 274
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e0d8b8fd1221750800000000000000
+      internalID: 6274114474883223086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_137
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 274
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed7e3402f3217f40800000000000000
+      internalID: 5724396123724873186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_138
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 274
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f321e35e9b5029630800000000000000
+      internalID: 3932211720621003327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_139
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 274
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7bb70ef06898ba0800000000000000
+      internalID: -6086186018665678902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V1_140
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 274
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02a388f5a912ce0800000000000000
+      internalID: -1431693471429025566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_141
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 274
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c305c39b9522f0800000000000000
+      internalID: -998220683424841057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_142
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 274
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74921dfda2d1cb7c0800000000000000
+      internalID: -4054333494559430329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_143
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 274
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43954762bea18e80800000000000000
+      internalID: -8178063367068085427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_144
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 274
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8df0d08bfea1ce0800000000000000
+      internalID: -1433569957591918377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_145
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 274
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f27dc71d00eb7f10800000000000000
+      internalID: 2268653184149713651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_146
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 274
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a063f249454330800000000000000
+      internalID: 3694439621227225097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_147
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 274
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c80b17979254350800000000000000
+      internalID: 6000247680116231322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeRun_V2_148
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 274
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76453c61e2e0fa160800000000000000
+      internalID: 7038860333716558951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlide_149
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 274
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f17e0cabf293700800000000000000
+      internalID: 520499711084797795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlide_150
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 274
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe057a4d74d06a0800000000000000
+      internalID: -6481445310050538500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlide_151
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 274
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb05bd189b3d08120800000000000000
+      internalID: 2414162193971630270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlide_152
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 274
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38e3bd6cb76bc580800000000000000
+      internalID: -8805830587400853444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlideFX_153
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 274
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94720d1bd9e5d1c0800000000000000
+      internalID: -4479417127056280417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlideFX_154
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 274
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376d50a4f2345cd0800000000000000
+      internalID: -2570373461077825732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlideFX_155
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 275
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39368b3647dfc7530800000000000000
+      internalID: 3854234057453364115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeGlideFX_156
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 274
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb721d1243b21f980800000000000000
+      internalID: -8506970718220507204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_157
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 210
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf092c88b38ab670800000000000000
+      internalID: 8555295270792400812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_158
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beff16a3fc34244b0800000000000000
+      internalID: -5457725241102827541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_159
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 210
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06e37c9582700f70800000000000000
+      internalID: 9151440360997905931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_160
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d65f6c614f19110800000000000000
+      internalID: 1266061348932250991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_161
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 210
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1693d7e3fa4286390800000000000000
+      internalID: -7824964017469965983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_162
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 211
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3f64c79b6c5700800000000000000
+      internalID: 530417155702733382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_163
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 211
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4aced0041d0a940800000000000000
+      internalID: 5305470434084168893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_164
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 211
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c4697638e4d3e0800000000000000
+      internalID: -2029742211374726485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_165
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 211
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5135f6761b2915b0800000000000000
+      internalID: -5397235302941773477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeSprint_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 211
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48431343620fed0b0800000000000000
+      internalID: -5701856031329405820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7c19f334e2ba20800000000000000
+      internalID: 3076772407321329568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_168
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b2313191395cca0800000000000000
+      internalID: -5997225592870458492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_169
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 211
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd65742b5ad08110800000000000000
+      internalID: 1261247980652293593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_170
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 211
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e73713d1ab8680800000000000000
+      internalID: -8751723522864715521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_171
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 211
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35033a251690fb480800000000000000
+      internalID: -8881369626548424621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_172
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 211
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7340c69ebc1a8a00800000000000000
+      internalID: 759451092063896446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_173
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 211
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f37e56957d3860800000000000000
+      internalID: 7511289042214057636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_174
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 211
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3438b7a2d8b0a70800000000000000
+      internalID: 8794277910971368357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_175
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 211
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd748d56af50d7710800000000000000
+      internalID: 1692515607969810396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeBall_176
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 211
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8593a5a6da7a0940800000000000000
+      internalID: 5263154176856397196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_177
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 209
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbeca273fdb19590800000000000000
+      internalID: -7669139837136606283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_178
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 209
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84355e41666552760800000000000000
+      internalID: 7432441756482097992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_179
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 209
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98cd639fde4d2960800000000000000
+      internalID: 7578800470092531871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_180
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 209
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b42178102a1f8010800000000000000
+      internalID: 1193201151427814577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_181
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 209
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3f90c6e3d0ea40800000000000000
+      internalID: 5395545341617454580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_182
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 211
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1776d3f5c2591f40800000000000000
+      internalID: 5699677813567026975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_183
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 211
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fec158e23f654f70800000000000000
+      internalID: 9170858480646606581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_184
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7baf8a5f3fb1cf0800000000000000
+      internalID: -280362315352983637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_185
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba7e6ddd09d3b4a0800000000000000
+      internalID: -6578675977085355337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_186
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 143
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483825909e925e10800000000000000
+      internalID: 2184983113043032142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_187
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99e4434e53423e00800000000000000
+      internalID: 1022954137501100444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_188
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 143
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97ed3d5f89eb15e0800000000000000
+      internalID: -1937698412698933349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_189
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 143
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95079d09b5c16f3a0800000000000000
+      internalID: -6632082221658705831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_190
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 143
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aaf6823adc8a8f0800000000000000
+      internalID: -528946855574263254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_191
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 143
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476298357b1f8010800000000000000
+      internalID: 1193202616550713160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_192
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 143
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9ff9f42b6a62d0800000000000000
+      internalID: -3284695171656082513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_193
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 143
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f409a05c764c90800000000000000
+      internalID: -7185919469548146348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_194
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 143
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5c215d33f145f10800000000000000
+      internalID: 2257463620698031614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_195
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 143
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd73a8ec18103e00800000000000000
+      internalID: 1022343627854282196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_196
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 143
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61d8632fac0d5a0800000000000000
+      internalID: -6498471120649513267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_197
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 143
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c74cca21ca06dd0800000000000000
+      internalID: -2494804997355307998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_198
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 143
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee41250f29006220800000000000000
+      internalID: 2476989892607954665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_199
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 143
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c6dfac0815b4f0800000000000000
+      internalID: -813717714901744040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_200
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 143
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dfca35065722820800000000000000
+      internalID: 2892002967306435994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_201
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 143
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b526f214c04bb720800000000000000
+      internalID: 2862953198999971250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_202
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 143
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53981d38fc4fb1a10800000000000000
+      internalID: 1881366441464269109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_203
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 143
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b125b7ff80e95010800000000000000
+      internalID: 1178219686474883509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_204
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 143
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f21875310f0c70800000000000000
+      internalID: 8939365114513127173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_205
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 143
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4538352d50bcb72d0800000000000000
+      internalID: -3279804677745310892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_206
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 143
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d3d260bd2a7b50800000000000000
+      internalID: 6591631240205686218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_207
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 143
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b5adc5bdcb01b0800000000000000
+      internalID: -5689227523529526183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_208
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 143
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8238a1f9554811f60800000000000000
+      internalID: 8003323516090483496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_209
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 143
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32434860b642be660800000000000000
+      internalID: 7416061253485081635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_210
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 143
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3dd02b8542667b0800000000000000
+      internalID: -5231453953781279760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_211
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 143
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d36236852fdd170800000000000000
+      internalID: 8204980557573405973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_212
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 143
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce311fae8549ce940800000000000000
+      internalID: 5326795568892154860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_213
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 141
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40959e181b26c0d0800000000000000
+      internalID: -3402985085839503284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_214
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f1eeb748f75370800000000000000
+      internalID: 8311384624364386531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_215
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ea0bd7e66e0b160800000000000000
+      internalID: 7039379579809607199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_216
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 75
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97563d2d07dab4ea0800000000000000
+      internalID: -5887421387771779719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a84956f8bcc8640800000000000000
+      internalID: 5083661896139442806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_218
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f32d98a3032620800000000000000
+      internalID: 2748044220351903834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_219
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 75
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f204c274dca0f40800000000000000
+      internalID: 5695590384332189577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_220
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 75
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31936615afb9153a0800000000000000
+      internalID: -6678385273003951853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_221
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 75
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fa75ac4a2f612d0800000000000000
+      internalID: -3308190086673748187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_222
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 75
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161791143ecadfdb0800000000000000
+      internalID: -4756455539383635615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_223
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 75
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dff7ae9b0827bdd0800000000000000
+      internalID: -2470461840217866284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_224
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 75
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c467558c9a42570800000000000000
+      internalID: 8441058279491521635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_225
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 75
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fd5ee2c995d490800000000000000
+      internalID: -7722096923555006691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_226
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 75
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec491e27b6ce200800000000000000
+      internalID: 210661423734640128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_227
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 75
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38727e2557238cf0800000000000000
+      internalID: -251313907397658563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_228
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 75
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532832461f8182fd0800000000000000
+      internalID: -2366614179136961995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_229
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 75
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70fdc54914f6050800000000000000
+      internalID: 5795923350918203306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_230
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 75
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208a84975ca4c4a0800000000000000
+      internalID: -6573940063899844566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_231
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 75
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db7f636d80e8dd20800000000000000
+      internalID: 3303637224539519961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_232
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 75
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb448502b3f1ab40800000000000000
+      internalID: 5449904970017295322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_233
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 73
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56275ad968eb784a0800000000000000
+      internalID: -6591090044253670811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_234
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 73
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb62b50c5636300800000000000000
+      internalID: 244150681645530790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_235
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 73
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2beff5673fe6b40800000000000000
+      internalID: 5435549490024985283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_236
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 73
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a57669134d7b3da0800000000000000
+      internalID: -5964035554379663966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_237
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 73
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c62c6e3d5edc160800000000000000
+      internalID: 7047541690177055893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_238
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 73
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fbe1c7ee2dd4180800000000000000
+      internalID: -9129408947883688117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_239
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 73
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345828b507a368a80800000000000000
+      internalID: -8465014195350239933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_240
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 73
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf921f8c9bb84190800000000000000
+      internalID: -7977920458797178963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_241
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 73
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345277a4c5175680800000000000000
+      internalID: -8766514215286320080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_242
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 73
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034a8816e3e18ad0800000000000000
+      internalID: -2701627724051889403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_243
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 74
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5054af81509b950800000000000000
+      internalID: 6465204344903239082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_244
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 74
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecba0d1e625c6bfa0800000000000000
+      internalID: -5785219900522845234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_245
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ded76d93354afb00800000000000000
+      internalID: 863078366581350102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_246
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ebb84fd86957650800000000000000
+      internalID: 6230051195974303365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_247
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2932453a59a8d80800000000000000
+      internalID: -8247615238851816780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_248
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795826ce30cd0760800000000000000
+      internalID: 7425802736448854393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_249
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8b8eaec51bf45a0800000000000000
+      internalID: -6534809521655072581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_250
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ced1d4e0fc115950800000000000000
+      internalID: 6435957163445837505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_251
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee9f4bad88adbca0800000000000000
+      internalID: -5999453802169655581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_252
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd03d10b8f17f8fe0800000000000000
+      internalID: -1184602864054619941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_253
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767759cff223c4930800000000000000
+      internalID: 4128730140074407783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_254
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de0277f29319c80800000000000000
+      internalID: -8317804160751702737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_255
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 6
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0aefd3b093fbed0800000000000000
+      internalID: -2396133756290293563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_256
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 6
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42c4e2cc2198910800000000000000
+      internalID: 1840022590916928709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_257
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc80d512a4224b20800000000000000
+      internalID: 3117094170663095504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_258
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360793c2780bf8200800000000000000
+      internalID: 184560204354515043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_259
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 6
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30533ad73e2cf6de0800000000000000
+      internalID: -1337636281984535293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_260
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 6
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45af356ad67e000800000000000000
+      internalID: 65141280761074872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_261
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 6
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e185b0e5482a850800000000000000
+      internalID: 6386812761016901251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_263
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d886515ab80ba5d0800000000000000
+      internalID: -3050334726291814190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_264
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 6
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7fef8bd0faea390800000000000000
+      internalID: -7805108630713337896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_265
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 6
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e1fd49fc5a3700800000000000000
+      internalID: 520830932739023071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_266
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 6
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9ce582773454c0800000000000000
+      internalID: -4299750779219305529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_267
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 6
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b942b167df48f0800000000000000
+      internalID: -553987414540306170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_268
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 6
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13adff6a45d70fb10800000000000000
+      internalID: 2013246835967121969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlazeMania_part1 1_270
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 6
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076db5d987a4cab0800000000000000
+      internalID: -4988678276781349116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
