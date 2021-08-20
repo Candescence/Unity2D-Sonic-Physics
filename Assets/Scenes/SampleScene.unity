@@ -202,7 +202,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 21515067}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -716.8, y: 85.7, z: 0}
+  m_LocalPosition: {x: -691.4, y: 142.3, z: 0}
   m_LocalScale: {x: 16, y: 16, z: 1}
   m_Children:
   - {fileID: 2147389602}
@@ -227,17 +227,18 @@ MonoBehaviour:
   heightRadius: 20
   floorCastDistance: 26
   wallCastVertOffset: -6
-  _acceleration: 0.0046875
-  _deceleration: 0.005
+  wallCastExtension: 1
+  _acceleration: 100
+  _deceleration: 50
   _friction: 0.046875
-  _topHorzSpeed: 0.65
+  _topHorzSpeed: 200
   _slopeFactorWalking: 0.125
   _slopeFactorRollingUp: 0.078125
   _slopeFactorRollingDown: 0.3125
   _fallTolerence: 2.5
-  _airAcceleration: 0.009375
-  _jumpForce: 0.65
-  _gravity: 0.0021875
+  _airAcceleration: 0.9375
+  _jumpForce: 100
+  _gravity: 0.21875
   leftLayerMask:
     serializedVersion: 2
     m_Bits: 385
@@ -702,7 +703,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 210.29529
+  orthographic size: 120
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

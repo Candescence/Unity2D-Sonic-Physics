@@ -26,6 +26,8 @@ public class SonicPlayerController : MonoBehaviour
     public float floorCastDistance;
     public float wallCastVertOffset;
 
+    public float wallCastExtension;
+
     private float xSpeed;
     private float ySpeed;
 
@@ -126,8 +128,10 @@ public class SonicPlayerController : MonoBehaviour
             
             if (ySpeed < 0f) {
                 FloorSensorCollision();
+            } else {
+                AirSensorCollision();
             }
-            AirSensorCollision();
+            
             //Debug.Log("Falling!");
         }
 
@@ -144,8 +148,8 @@ public class SonicPlayerController : MonoBehaviour
         jumpReleased = value.canceled;
 
         if (isOnGround && (value.started || value.performed)) {
-            xSpeed += _jumpForce * Mathf.Sin(groundAngle);
-            ySpeed += _jumpForce * Mathf.Cos(groundAngle);
+            xSpeed += _jumpForce * Mathf.Sin(groundAngle) * Time.deltaTime;
+            ySpeed += _jumpForce * Mathf.Cos(groundAngle) * Time.deltaTime;
 
             isOnGround = false;
             Debug.Log("Jumped!");
@@ -189,7 +193,7 @@ public class SonicPlayerController : MonoBehaviour
             }
         }
 
-        groundSpeed -= slopeFactor*Mathf.Sin(groundAngle);
+        groundSpeed -= slopeFactor*Mathf.Sin(groundAngle) * Time.deltaTime;
         
     }
 
@@ -229,41 +233,43 @@ public class SonicPlayerController : MonoBehaviour
             rightWallRay = new Ray2D((Vector2)transform.position + centerOffset + new Vector2(-wallCastVertOffset,0f), Vector2.down);
         }
 
-        RaycastHit2D leftWallHit = Physics2D.Raycast(leftWallRay.origin, leftWallRay.direction, widthRadius);
-        RaycastHit2D rightWallHit = Physics2D.Raycast(rightWallRay.origin, rightWallRay.direction, widthRadius);
+        RaycastHit2D leftWallHit = Physics2D.Raycast(leftWallRay.origin, leftWallRay.direction, widthRadius+wallCastExtension);
+        RaycastHit2D rightWallHit = Physics2D.Raycast(rightWallRay.origin, rightWallRay.direction, widthRadius+wallCastExtension);
 
         if (leftWallHit.collider != null) {
             if (quadrantMode == QuadrantMode.Floor) {
-                transform.position = new Vector3(leftWallHit.point.x+widthRadius,transform.position.y, 0f);
+                transform.position = new Vector3(leftWallHit.point.x+(widthRadius+wallCastExtension),transform.position.y, 0f);
             }
             if (quadrantMode == QuadrantMode.Right_Wall) {
-                transform.position = new Vector3(transform.position.x, leftWallHit.point.y+widthRadius, 0f);
+                transform.position = new Vector3(transform.position.x, leftWallHit.point.y+(widthRadius+wallCastExtension), 0f);
             }
             if (quadrantMode == QuadrantMode.Ceiling) {
-                transform.position = new Vector3(leftWallHit.point.x-widthRadius,transform.position.y, 0f);
+                transform.position = new Vector3(leftWallHit.point.x-(widthRadius+wallCastExtension),transform.position.y, 0f);
             }
             if (quadrantMode == QuadrantMode.Left_Wall) {
-                transform.position = new Vector3(transform.position.x, leftWallHit.point.y-widthRadius, 0f);
+                transform.position = new Vector3(transform.position.x, leftWallHit.point.y-(widthRadius+wallCastExtension), 0f);
             }
         }
 
         if (rightWallHit.collider != null) {
             if (quadrantMode == QuadrantMode.Floor) {
-                transform.position = new Vector3(rightWallHit.point.x-widthRadius,transform.position.y, 0f);
+                transform.position = new Vector3(rightWallHit.point.x-(widthRadius+wallCastExtension),transform.position.y, 0f);
             }
             if (quadrantMode == QuadrantMode.Right_Wall) {
-                transform.position = new Vector3(transform.position.x, rightWallHit.point.y-widthRadius, 0f);
+                transform.position = new Vector3(transform.position.x, rightWallHit.point.y-(widthRadius+wallCastExtension), 0f);
             }
             if (quadrantMode == QuadrantMode.Ceiling) {
-                transform.position = new Vector3(rightWallHit.point.x+widthRadius,transform.position.y, 0f);
+                transform.position = new Vector3(rightWallHit.point.x+(widthRadius+wallCastExtension),transform.position.y, 0f);
             }
             if (quadrantMode == QuadrantMode.Left_Wall) {
-                transform.position = new Vector3(transform.position.x, rightWallHit.point.y+widthRadius, 0f);
+                transform.position = new Vector3(transform.position.x, rightWallHit.point.y+(widthRadius+wallCastExtension), 0f);
             }
         }
 
-        Debug.DrawRay(leftWallRay.origin, leftWallRay.direction * widthRadius, Color.red, 0.1f);
-        Debug.DrawRay(rightWallRay.origin, rightWallRay.direction * widthRadius, Color.red, 0.1f);
+        Debug.Log(quadrantMode.ToString());
+
+        Debug.DrawRay(leftWallRay.origin, leftWallRay.direction * (widthRadius+wallCastExtension), Color.red, 0.1f);
+        Debug.DrawRay(rightWallRay.origin, rightWallRay.direction * (widthRadius+wallCastExtension), Color.red, 0.1f);
         
     }
 
@@ -276,14 +282,14 @@ public class SonicPlayerController : MonoBehaviour
         if(isOnGround && controlLockTimer <= 0f) {
             if (moveValue.x < 0f) {
                 if (groundSpeed > 0f) {
-                    groundSpeed -= _deceleration;
+                    groundSpeed -= _deceleration * Time.deltaTime;
 
                     // if (groundSpeed <= 0f) {
                     //     groundSpeed = -0.5f;
                     // }
                 } 
                 else if (groundSpeed > -_topHorzSpeed) {
-                    groundSpeed -= _acceleration;
+                    groundSpeed -= _acceleration * Time.deltaTime;
 
                     if (groundSpeed <= -_topHorzSpeed) {
                         groundSpeed = -_topHorzSpeed;
@@ -293,14 +299,14 @@ public class SonicPlayerController : MonoBehaviour
 
             if (moveValue.x > 0f) {
                 if (groundSpeed < 0f) {
-                    groundSpeed += _deceleration;
+                    groundSpeed += _deceleration * Time.deltaTime;
 
                     // if (groundSpeed >= 0f) {
                     //     groundSpeed = 0.5f;
                     // }
                 } 
                 else if (groundSpeed < _topHorzSpeed) {
-                    groundSpeed += _acceleration;
+                    groundSpeed += _acceleration * Time.deltaTime;
 
                     if (groundSpeed >= _topHorzSpeed) {
                         groundSpeed = _topHorzSpeed;
@@ -309,20 +315,20 @@ public class SonicPlayerController : MonoBehaviour
             }
 
             if (moveValue.x == 0f) {
-                groundSpeed -= Mathf.Min(Mathf.Abs(groundSpeed), _friction) * Mathf.Sign(groundSpeed);
+                groundSpeed -= Mathf.Min(Mathf.Abs(groundSpeed), _friction) * Mathf.Sign(groundSpeed) * Time.deltaTime;
             }
         } else {
             if (!isOnGround) {
                 if (moveValue.x < 0f) {
                     if (xSpeed > 0f) {
-                        xSpeed -= _deceleration;
+                        xSpeed -= _deceleration * Time.deltaTime;
 
                         // if (xSpeed <= 0f) {
                         //     xSpeed = -0.5f;
                         // }
                     } 
                     else if (xSpeed > -_topHorzSpeed) {
-                        xSpeed -= _airAcceleration;
+                        xSpeed -= _airAcceleration * Time.deltaTime;
 
                         if (xSpeed <= -_topHorzSpeed) {
                             xSpeed = -_topHorzSpeed;
@@ -332,14 +338,14 @@ public class SonicPlayerController : MonoBehaviour
 
                 if (moveValue.x > 0f) {
                     if (xSpeed < 0f) {
-                        xSpeed += _deceleration;
+                        xSpeed += _deceleration * Time.deltaTime;
 
                         // if (xSpeed >= 0f) {
                         //     xSpeed = 0.5f;
                         // }
                     } 
                     else if (xSpeed < _topHorzSpeed) {
-                        xSpeed += _airAcceleration;
+                        xSpeed += _airAcceleration * Time.deltaTime;
 
                         if (xSpeed >= _topHorzSpeed) {
                             xSpeed = _topHorzSpeed;
@@ -348,14 +354,14 @@ public class SonicPlayerController : MonoBehaviour
                 }
 
                 if (ySpeed < 0f && ySpeed > -4f) {
-                    xSpeed -= ((xSpeed / 0.125f) / 256f);
+                    xSpeed -= ((xSpeed / 0.125f) / 256f) * Time.deltaTime;
                 }
             }
         }
 
         if (isOnGround) {
-            xSpeed = groundSpeed * Mathf.Cos(groundAngle);
-            ySpeed = groundSpeed * -Mathf.Sin(groundAngle);
+            xSpeed = groundSpeed * Mathf.Cos(groundAngle) * Time.deltaTime;
+            ySpeed = groundSpeed * -Mathf.Sin(groundAngle) * Time.deltaTime;
         }
 
         transform.position += new Vector3(xSpeed,ySpeed,0f);
@@ -494,15 +500,20 @@ public class SonicPlayerController : MonoBehaviour
     }
 
     public void ApplyGravity() {
-        ySpeed -= _gravity;
+        ySpeed -= _gravity * Time.deltaTime;
     }
 
     public void AirRotateToZero() {
         if (groundAngle > 0 && groundAngle <= 180) {
-            groundAngle -= 2.18125f;
+            groundAngle -= 2.18125f * Time.deltaTime;
         } else {
-            groundAngle += 2.18125f;
+            groundAngle += 2.18125f * Time.deltaTime;
         }
+
+        if ((0f > groundAngle && groundAngle <= 1f) || (groundAngle >= 359f && groundAngle < 360f )) {
+            groundAngle = 0f;
+        }
+        //groundAngle = 0f;
     }
 
     public void AirSensorCollision() {
@@ -521,13 +532,14 @@ public class SonicPlayerController : MonoBehaviour
         }
 
         if (leftCeilingHit.collider != null && rightCeilingHit.collider != null) {
-            isOnGround = true;
             if (leftCeilingHit.distance >= rightCeilingHit.distance) {
-                transform.position = new Vector3(transform.position.x, leftCeilingHit.point.y-heightRadius-centerOffset.y, 0f);
+            transform.position = new Vector3(transform.position.x, leftCeilingHit.point.y-heightRadius-centerOffset.y, 0f);
             } else if (leftCeilingHit.distance < rightCeilingHit.distance) {
-                transform.position = new Vector3(transform.position.x, rightCeilingHit.point.y-heightRadius-centerOffset.y, 0f);
+            transform.position = new Vector3(transform.position.x, rightCeilingHit.point.y-heightRadius-centerOffset.y, 0f);
             }
-        } else if (leftCeilingHit.collider != null && rightCeilingHit.collider == null) {
+        }
+         
+        else if (leftCeilingHit.collider != null && rightCeilingHit.collider == null) {
             transform.position = new Vector3(transform.position.x, leftCeilingHit.point.y-heightRadius-centerOffset.y, 0f);
         } else if (leftCeilingHit.collider == null && rightCeilingHit.collider != null) {
             transform.position = new Vector3(transform.position.x, leftCeilingHit.point.y-heightRadius-centerOffset.y, 0f);
